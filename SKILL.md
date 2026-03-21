@@ -1,8 +1,9 @@
 ---
 name: overnight-worker
 description: |
-  夜间自主工作 Agent —— 用户睡前下达任务，Agent 夜间自主完成调研/写作/数据整理/代码审查等工作，
-  早晨生成结构化摘要和完整产出物。支持智能任务拆解、多格式输出、进度日志、错误恢复和通知推送。
+  Autonomous overnight work agent — assign tasks before sleep, get structured results by morning.
+  Supports smart task decomposition, web research, multi-format output, progress logging, error recovery, and push notifications.
+  (中文) 夜间自主工作 Agent：智能任务拆解、多格式输出、进度日志、错误恢复、通知推送。
 user_invocable: true
 argument-hint: "<任务描述> [--type research|writing|data|code-review] [--budget <token预算>] [--format md|csv|json] [--notify telegram|macos|webhook]"
 allowed-tools:
