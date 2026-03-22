@@ -2,9 +2,12 @@
 
 > Assign tasks before sleep. Get structured results by morning.
 
+[![GitHub stars](https://img.shields.io/github/stars/fullstackcrew-alpha/skill-overnight-worker?style=social)](https://github.com/fullstackcrew-alpha/skill-overnight-worker/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![ClawHub](https://img.shields.io/badge/ClawHub-overnight--worker-blue)](https://clawhub.dev/skills/overnight-worker)
+[![ClawHub](https://img.shields.io/badge/ClawHub-overnight--worker-blue)](https://clawhub.ai/s/overnight-worker)
 [![Compatible](https://img.shields.io/badge/Compatible-OpenClaw%20%7C%20Claude%20Code-green)](https://github.com/anthropics/claude-code)
+
+If you find this useful, please give it a star — it helps others discover it.
 
 ## Overview
 
